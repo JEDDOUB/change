@@ -9,19 +9,18 @@
         "Building": {
           "+change": { 
             "value": "string"
-         },
+         }
         },
 
         "BuildingPart": {
           "+change": { 
             "value": "string"
-         },
-
+         }
         },
         "SolitaryVegetationObject": {
           "+change": { 
             "value": "string"
-         },
+         }
         },
 
       }, 
