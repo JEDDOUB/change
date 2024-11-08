@@ -2,8 +2,8 @@
   "type": "CityJSONExtension",
   "name": "change detection",
   "url": "https://raw.githubusercontent.com/JEDDOUB/change/main/change.ext.json",
-  "version": "2.0",
-  "versionCityJSON": "0.5",
+  "version": "0.5",
+  "versionCityJSON": "2.0",
   "description": "Extension for structring change in 3D city models",
   "extraAttributes": {
         "Building": {
