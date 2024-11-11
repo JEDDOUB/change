@@ -9,20 +9,37 @@
         "Building": {
           "+change": { 
             "value": "string"
+          },
+          "+height-variation": { 
+            "value": "number"
+         },
+          "+change-uncertainty": { 
+            "value": "number"
          }
-        },
+         },
 
         "BuildingPart": {
           "+change": { 
             "value": "string"
+          },
+          "+height-variation": { 
+            "value": "number"
+         },
+          "+change-uncertainty": { 
+            "value": "number"
          }
-        },
+         },
         "SolitaryVegetationObject": {
           "+change": { 
             "value": "string"
-         }
+         },
+          "+height-variation": { 
+            "value": "number"
+         },
+          "+change-uncertainty": { 
+            "value": "number"
         }
-
+        }  
       }, 
     "extraCityObjects": {},
     "extraRootProperties": {},     
