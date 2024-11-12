@@ -29,17 +29,28 @@
             "value": "number"
          }
          },
-        "SolitaryVegetationObject": {
+         "SolitaryVegetationObject": {
           "+change": { 
             "value": "string"
-         },
+          },
           "+height-variation": { 
             "value": "number"
-         },
+          },
           "+change-uncertainty": { 
             "value": "number"
+          }
+        },
+        "Road": {
+          "+change": { 
+            "value": "string"
+          },
+          "+height-variation": { 
+            "value": "number"
+          },
+          "+change-uncertainty": { 
+            "value": "number"
+          }
         }
-        }  
       }, 
     "extraCityObjects": {},
     "extraRootProperties": {},     
