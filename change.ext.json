@@ -1,6 +1,6 @@
 {
   "type": "CityJSONExtension",
-  "name": "change detection",
+  "name": "changedetection",
   "url": "https://raw.githubusercontent.com/JEDDOUB/change/main/change.ext.json",
   "version": "0.5",
   "versionCityJSON": "2.0",
